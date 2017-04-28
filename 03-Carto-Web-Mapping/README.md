@@ -7,7 +7,7 @@ This will be a primarily self-directed study using the official CartoDB lessons.
 
 ### Readings:
 
-CartoDB editor [overview](https://cartodb.com/editor/)
+CartoDB editor [overview](https://carto.com/builder/)
 
 ### Class Session:
 
