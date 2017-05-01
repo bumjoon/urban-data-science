@@ -15,7 +15,7 @@ Take an overview of Carto Builder [overview](https://carto.com/builder/)
 2. Instructor demo
 2. Go to the [Carto Guides](https://carto.com/learn/guides) and complete the "Intro" courses (in total they make take ~ 1 hr)
 3. Download the cholera map data and make your own map
-4. Publish your map on your personal UB website [Instructor Demo](http://www.acsu.buffalo.edu/~bumjoonk/_courses/urp_569/gis.html)
+4. Publish your map on your personal UB website [Instructor Demo](http://www.acsu.buffalo.edu/~bumjoonk/gis.html)
 
 ### Exercise:
 
@@ -69,6 +69,8 @@ Take an overview of Carto Builder [overview](https://carto.com/builder/)
   </body>
 </html>
 ~~~~
+
+  Again, visit the instructor's [demo webpage](http://www.acsu.buffalo.edu/~bumjoonk/gis.html) on Google Chrome. Hold CONTROL and press "U" key. Then you can see its [source view](view-source:http://www.acsu.buffalo.edu/~bumjoonk/gis.html).
 
 7. Now, you should have a public webpage at this url address 'http://www.acsu.buffalo.edu/~[UBID]/gis.html' (Note: [UBID] should be your UBIT ID). Open an internet brower like Google Chrome. Copy and paste your url address.
 8. In the above webpage, include a write-up discussing at a minimum the following elements:
