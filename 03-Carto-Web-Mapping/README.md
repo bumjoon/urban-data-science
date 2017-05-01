@@ -31,6 +31,7 @@ Take an overview of Carto Builder [overview](https://carto.com/builder/)
   * Pumps.sbx
   * Pumps.shx
   * Pumps.dbf
+  
   Select them and create a new zip, call it something easy, Pumps.zip for example. Now, we will do the same with the cholera deaths. Select and create a zip of the following files,
   * Cholera_Deaths.shp
   * Cholera_Deaths.prj
@@ -38,6 +39,7 @@ Take an overview of Carto Builder [overview](https://carto.com/builder/)
   * Cholera_Deaths.shx
   * Cholera_Deaths.dbf
   * Cholera_Deaths.sbn
+  
   Again, call it something simple, like Cholera.zip for example. Now, start by dragging our Pumps.zip file to your dashboard. You should end up with a table simply called, pumps. Next, go back to your dashboard by clicking the Carto logo at the upper left of the screen. Now, drag your Cholera.zip file to your dashboard. Great! You should now have a table called cholera_deaths.
 5. Using your uploaded data set(s), create at least one map with Carto, showing the associations between pumps and Cholera deaths. Adhere to the best practices you have learned from the tutorials – including thoughtful use of colors, data, and labels.
 6. You should have a html file under `I:/public_html` (this is your personal UB webpage folder), which was activated in a previous lab.
