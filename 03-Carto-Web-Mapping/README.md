@@ -7,12 +7,12 @@ This will be a primarily self-directed study using the official CartoDB lessons.
 
 ### Readings:
 
-CartoDB editor [overview](https://carto.com/builder/)
+Carto editor [overview](https://carto.com/builder/)
 
 ### Class Session:
 
-1. Sign up for a [CartoDB](https://cartodb.com/) account
-2. Go to the [CartoDB Academy](http://academy.cartodb.com/) and complete the "Online Mapping for Beginners" and the "Introduction to Map Design" courses
+1. Sign up for a [Carto](https://carto.com/signup/) account
+2. Go to the [Carto Academy](https://carto.com/academy) and complete the "Online Mapping for Beginners" and the "Introduction to Map Design" courses
 3. Review the CartoDB Wordpress embedding instructions PDF.
 
 ### Exercise:
