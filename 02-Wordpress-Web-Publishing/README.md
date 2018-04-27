@@ -36,4 +36,4 @@ We'll learn how to set up our own web sites under UB servers.
 9. Now, let's visit the file via web.
 10. Visit the website below. You need to replace [UBIT_NAME] with your UB id.
 http://www.acsu.buffalo.edu/~[UBIT_NAME]/gis.html
-11. If you edit the html file in Notepad, then your web browser will show the edit (don't forget reflash).
+11. If you edit the html file in Notepad, then your web browser will show the edit (don't forget refresh).
